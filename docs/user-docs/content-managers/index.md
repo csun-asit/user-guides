@@ -16,10 +16,10 @@ This guide goes over the process to log into the MIND server (known as “Airbea
 
 ## Table of Contents
 {: .no_toc .text-delta }
-
+ 
 1. TOC
 {:toc}
-
+ 
 ---
 
 ## Network Diagram
